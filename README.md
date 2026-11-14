@@ -26,3 +26,4 @@ This repository is maintained by MAX.
 - Pair silver step 20
 - Pair silver step 21
 - Pair silver step 22
+- Pair silver step 23
