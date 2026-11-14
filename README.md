@@ -20,3 +20,4 @@ This repository is maintained by MAX.
 - Progress entry 14
 - Progress entry 15
 - Progress entry 16
+- Pair silver step 17
