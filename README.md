@@ -23,3 +23,4 @@ This repository is maintained by MAX.
 - Pair silver step 17
 - Pair silver step 18
 - Pair silver step 19
+- Pair silver step 20
