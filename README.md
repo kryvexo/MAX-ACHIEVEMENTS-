@@ -36,3 +36,5 @@ This repository is maintained by MAX.
 - Pair Extraordinaire verified step 2
 
 - Pair Extraordinaire verified step 3
+
+- Pair Extraordinaire verified step 4
